@@ -1,0 +1,19 @@
+{
+  "name": "haoyu-npm-test",
+  "version": "0.0.1",
+  "description": "npm study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangHaoYu1991/haoyu-npm-test.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangHaoYu1991/haoyu-npm-test/issues"
+  },
+  "homepage": "https://github.com/wangHaoYu1991/haoyu-npm-test#readme"
+}
